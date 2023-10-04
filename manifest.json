@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "MTLNOVEL ONLY RAW",
+    "version": "1.0",
+    "description": "This extension will hide the English translation on the page an leave only RAW",
+    "content_scripts": [
+        {
+            "matches": ["https://www.mtlnovel.com/*"],
+            "js": ["worker.js"]
+        }
+    ]
+}
