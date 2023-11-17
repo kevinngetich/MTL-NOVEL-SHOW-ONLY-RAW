@@ -1,5 +1,5 @@
 ## Not particularly useful 
-But, I was incovenienced enough to have the thought to try out Chrome Extension development.
+But, I was inconvenienced enough to have the thought to try out Chrome Extension development.
 So here's my first go.Turns out it's fairly simple & straight forward. 
 ## Purpose
 Hide initial English text for mtlnovel.com web novels
